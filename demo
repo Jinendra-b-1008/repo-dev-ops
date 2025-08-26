@@ -1,2 +1,6 @@
 hiiiii second line added and committed from f1 br added the third line from f1
+<<<<
+branch testing branch f2
+=======
 branch added the line from f1 branch after committing and pushing from f2 branch
+resolved
